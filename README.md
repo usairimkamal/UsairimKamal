@@ -45,8 +45,8 @@ Website: **[Khan Academy](https://www.khanacademy.org/profile/kaid_3300485410500
 ![image](https://img.shields.io/badge/-Khan%20Academy-14BF96?logo=khanacademy&logoColor=white&style=flat)
 ![image](https://img.shields.io/badge/-Codingal-FF6F00?style=flat&logo=codeforces&logoColor=white)
 ![image](https://img.shields.io/badge/-FigJam-CF4AFF?style=flat&logo=figma&logoColor=white)
-
- 
+![image](https://img.shields.io/badge/-AstroCade-0B1026?logo=rocket&logoColor=white&style=flat)
+![Bloxd.io](https://img.shields.io/badge/-🧱Bloxd.io-white?style=flat)
 
 ## 💻 My Tech Stack
 
