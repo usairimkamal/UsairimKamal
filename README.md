@@ -87,13 +87,13 @@ Website: **[Khan Academy](https://www.khanacademy.org/profile/kaid_3300485410500
 
 Feel free to reach out!  
 📧 Email: usairimkamal2016@gmail.com  
+🧱 Bloxd.io Username: King_UsairimKamalYT
+🚀 Astrocade Username: UsairimKamalYT
 
-🌐 Old Website: [Usairim Web Tech(Old Website)](https://usairimkamal786.github.io)
+🌐 Old Website: [Usairim Web Tech (Old Website)](https://usairimkamal786.github.io)
 🌐 Website: [CodeQuestLog](https://codequestlog.great-site.net)
 
 
 
 **New Updates every week**
-
----
 
