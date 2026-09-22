@@ -1,8 +1,8 @@
 ### 👤 About Me
 Hey, I'm Usairim Kamal!
-I’m 9-year-old coder, designer, and tech explorer from Pakistan.  
+I am coder, designer, and tech explorer from Pakistan.  
 I love creating various projects using **HTML**, **CSS**, **JavaScript**, **Python**, **Scratch** and **PHP**.  
-
+I lost my account @UsairimKamal786 because i could not log into that account but now i will continue from this profile.
 
 
 <br>
@@ -80,7 +80,7 @@ Website: **[Khan Academy](https://www.khanacademy.org/profile/kaid_3300485410500
 ---
 
 ## Stats
-![Github Stats](https://gh-readme-profile.vercel.app/api?username=UsairimKamal786&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3)
+![Github Stats](https://gh-readme-profile.vercel.app/api?username=UsairimKamal&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3)
 ## 📫 Contact Me
 
 Feel free to reach out!  
@@ -88,13 +88,9 @@ Feel free to reach out!
 
 🌐 Website: [Usairim Web Tech Website](https://usairimkamal786.github.io)
 
-❤️‍🔥 [Life Story](https://usairimkamal786.github.io/life-story.html)
+
 
 **New Updates every week**
 
 ---
 
-
-
-> *“Bismillah – everything starts with Allah's help.”*  
-> *Small age, big dreams, and a heart full of passion!*
