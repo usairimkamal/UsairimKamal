@@ -53,6 +53,8 @@ Website: **[Khan Academy](https://www.khanacademy.org/profile/kaid_3300485410500
 ### 🖥️ Brands
 ![Lenovo](https://img.shields.io/badge/Lenovo-black?style=for-the-badge&logo=lenovo&logoColor=white)
 ![HP](https://img.shields.io/badge/HP-0096D6?style=for-the-badge&logo=hp&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=apple&logoColor=white)
 
 ### 🧠 Operating Systems
 ![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
